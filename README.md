@@ -1,1 +1,1 @@
-# ScoreKeeper-App
+# ScoreKeeper-App Udacity project
